@@ -23,3 +23,4 @@ Publications:
 
 2. Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry Using Non-Uniform B-Spline
 
+3. Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking (Submitted to IROS 2024)
