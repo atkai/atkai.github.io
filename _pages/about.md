@@ -11,11 +11,11 @@ redirect_from:
 
 I'm Kai Tang, a second-year MS student in the Zhejiang University, advised by Prof. Yong Liu.
 
-**Reasrch Interest:** SLAM and its deep learning extensions, Vision Perception
+**Reasrch Interest:** Lcalization and Mapping, Vision Perception
 
-**ORCID:** [0009-0005-9493-0229]{https://orcid.org/0009-0005-9493-0229}
+**ORCID:** [0009-0005-9493-0229](https://orcid.org/0009-0005-9493-0229)
 
-**Contact:** [kaitang@zju.edu.cn]{kaitang@zju.edu.cn}
+**Contact:** [kaitang@zju.edu.cn](kaitang@zju.edu.cn)
 
 Publications:
 ------
