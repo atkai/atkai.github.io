@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Kai Tang"
-excerpt: "About me"
+excerpt: "Home Page"
 author_profile: true
 redirect_from: 
   - /about/
