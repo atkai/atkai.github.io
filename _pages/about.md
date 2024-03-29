@@ -10,7 +10,7 @@ redirect_from:
 
 Basic Info:
 ------
-I'm Kai Tang, a second-year MS student in the College of Control Science and Engineering (CSE) at Zhejiang University, advised by Prof. Yong Liu.
+I'm Kai Tang, a second-year MS student in the Institute of Cyber-Systems and Control at Zhejiang University, advised by Prof. Yong Liu.
 
 **Reasrch Interest:** Localization and Mapping, Vision Perception
 
