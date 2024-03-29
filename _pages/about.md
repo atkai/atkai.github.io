@@ -25,6 +25,10 @@ Publications:
 
     Authors: **Kai Tang**, Xiaolei Lang, Yukai Ma, Yuehao Huang, Laijian Li, Yong Liu, Jiajun Lv
 
+2. SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking
+
+    Authors: Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, **Kai Tang**, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu
+
 **2023**:
 1. [Geo-Localization With Transformer-Based 2D-3D Match Network](/publication/2023-06-29-paper) 
 
