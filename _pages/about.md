@@ -25,7 +25,7 @@ Publications:
 
     Authors: **Kai Tang**, Xiaolei Lang, Yukai Ma, Yuehao Huang, Laijian Li, Yong Liu, Jiajun Lv
 
-2. SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking
+2. [SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking](/publication/2024-03-24-paper) 
 
     Authors: Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, **Kai Tang**, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu
 
