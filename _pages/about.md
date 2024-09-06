@@ -21,7 +21,7 @@ I'm Kai Tang, a second-year MS student in the Institute of Cyber-Systems and Con
 Publications:
 ------
 **2024**:
-1. Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking (**Submitted to IROS 2024**) 
+1. Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking (**IROS 2024**) 
 
     Authors: **Kai Tang**, Xiaolei Lang, Yukai Ma, Yuehao Huang, Laijian Li, Yong Liu, Jiajun Lv
 
