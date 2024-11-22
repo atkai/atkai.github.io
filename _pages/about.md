@@ -10,13 +10,13 @@ redirect_from:
 
 Basic Info:
 ------
-My name is Kai Tang. Currently, I am a third-year Ph.D. student in the Institute of Cyber-Systems and Control at Zhejiang University, advised by Prof. Yong Liu. I received my B.E. degree in Mechatronic Engineering and Automation from Zhejiang University, Hangzhou, China, in 2022.
+My name is Kai Tang. I am currently a third-year Ph.D. student in the Institute of Cyber-Systems and Control at Zhejiang University, advised by Prof. Yong Liu. I received my B.E. degree in Mechatronic Engineering and Automation from Zhejiang University, Hangzhou, China, in 2022.
 
 **Reasrch Interest:** Robotics, Vision Perception, SLAM, Event Camera
 
-**ORCID:** [0009-0005-9493-0229](https://orcid.org/0009-0005-9493-0229)
+<!-- **ORCID:** [0009-0005-9493-0229](https://orcid.org/0009-0005-9493-0229)
 
-**Email Address:** [kaitang@zju.edu.cn](kaitang@zju.edu.cn)
+**Email Address:** [kaitang@zju.edu.cn](kaitang@zju.edu.cn) -->
 
 
 Publications:

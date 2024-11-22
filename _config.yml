@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to visit my homepage"
+title                    : "Kai Tang's Homepage"
 title_separator          : "-"
 name                     : &name "Kai Tang"
 description              : &description "Learn and then practice"
