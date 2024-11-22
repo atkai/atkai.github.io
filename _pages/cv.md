@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in Zhejiang University, 2018-2022
-* M.S. in Zhejiang University, 2022-now
+------
+* B.E. in Mechatronic Engineering and Automation from Zhejiang University, 2018-2022
+* Ph.D. in Control Science and Engineering from Zhejiang University, 2022-now
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- Work experience
@@ -37,7 +37,7 @@ Education
 * Skill 3 -->
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

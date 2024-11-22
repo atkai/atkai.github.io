@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Basic Info:
+## Basic Info:
 ------
 My name is Kai Tang. Currently, I am a third-year Ph.D. student in the Institute of Cyber-Systems and Control at Zhejiang University, advised by Prof. Yong Liu. I received my B.E. degree in Mechatronic Engineering and Automation from Zhejiang University, Hangzhou, China, in 2022.
 
-**Reasrch Interest:** Localization and Mapping, Vision Perception
+**Reasrch Interest:** Robotics, Vision Perception, SLAM, Event Camera
 
 **ORCID:** [0009-0005-9493-0229](https://orcid.org/0009-0005-9493-0229)
 
-**Contact:** [kaitang@zju.edu.cn](kaitang@zju.edu.cn)
+**Email Address:** [kaitang@zju.edu.cn](kaitang@zju.edu.cn)
 
 Publications:
 ------
-**2024**:
+### 2024:
 1. PA-EVIO: Polarity-aided Event-Visual-Inertial Odometry (**Submitted to IEEE Trans**)
 
     Authors: **Kai Tang**†, Xiaolei Lang†, Yukai Ma, Yuehao Huang, Yaqing Gu, Laijian Li, Jie Ren, Yong Liu, and Jiajun Lv
@@ -33,7 +33,7 @@ Publications:
 
     Authors: Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, **Kai Tang**, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu
 
-**2023**:
+### 2023:
 1. [Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry Using Non-Uniform B-Spline](/publication/2023-09-14-paper) (**RA-L 2023**)
 
     Authors: Xiaolei Lang, Chao Chen, **Kai Tang**, Yukai Ma, Jiajun Lv, Yong Liu, and Xingxing Zuo
