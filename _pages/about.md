@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Basic Info:
+Basic Info:
 ------
 My name is Kai Tang. Currently, I am a third-year Ph.D. student in the Institute of Cyber-Systems and Control at Zhejiang University, advised by Prof. Yong Liu. I received my B.E. degree in Mechatronic Engineering and Automation from Zhejiang University, Hangzhou, China, in 2022.
 
