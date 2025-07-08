@@ -21,14 +21,15 @@ My name is Kai Tang. I am currently a third-year Ph.D. student in the Institute 
 
 Publications:
 ------
+### 2025
+1. [Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](/publication/2025-07-05-paper) (**Submitted to IEEE Trans**, Third Author)
+
+2. PA-EVIO: Polarity-aided Event-Visual-Inertial Odometry (**Submitted to IEEE Trans**, First Author)
+
 ### 2024:
-1. PA-EVIO: Polarity-aided Event-Visual-Inertial Odometry (**Submitted to IEEE Trans**, First Author)
+1. [Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking](/publication/2024-09-21-paper) (**IROS 2024**, First Author) 
 
-    Authors: **Kai Tang**†, Xiaolei Lang†, Yukai Ma, Yuehao Huang, Yaqing Gu, Laijian Li, Jie Ren, Yong Liu, and Jiajun Lv
-
-2. [Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking](/publication/2024-09-21-paper) (**IROS 2024**, First Author) 
-
-3. [SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking](/publication/2024-03-24-paper)  (**CVPR 2024**, Paticipation)
+2. [SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking](/publication/2024-03-24-paper)  (**CVPR 2024**, Paticipation)
 
 ### 2023:
 1. [Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry Using Non-Uniform B-Spline](/publication/2023-09-14-paper) (**RA-L 2023**, Third Author)
