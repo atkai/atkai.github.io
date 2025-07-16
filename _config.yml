@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kai Tang's Homepage"
 title_separator          : "-"
 name                     : &name "Kai Tang"
-description              : &description "Learn and then practice"
+description              : &description "Learn and practice"
 url                      : https://atkai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atkai/atkai.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kai Tang"
   avatar           : "profile.png"
-  bio              : "Learn and then practice"
+  bio              : "Learn and practice"
   location         : "HangZhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
