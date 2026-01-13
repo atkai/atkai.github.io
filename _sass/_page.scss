@@ -17,7 +17,13 @@
 }
 
 .page {
+  background-color: #fff;
+  padding: 1.5em;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+
   @include breakpoint($large) {
+    padding: 3em;
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);

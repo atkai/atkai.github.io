@@ -24,38 +24,38 @@ Hello! I am **Kai Tang**, currently a Ph.D. student at the Institute of Cyber-Sy
 
 ## Publications
 
-<span style="font-size: 10px;">
+<div style="font-size: 1rem;" markdown="1">
 
+1. [PA-EVIO: Polarity-aided Event-Visual-Inertial Odometry with Adaptive Event Representation](/publication/2026-01-12-paper)  
+   *(2026, T-IM, **First Author**)*
 
-1. [Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](/publication/2025-07-05-paper)  
- <em>(2025, Submitted to IEEE Trans, Third Author)</em>
-
-2. PA-EVIO: Polarity-aided Event-Visual-Inertial Odometry with Adaptive Event Represatation  
- <em>(2025, Submitted to IEEE Trans, First Author)</em>
+2. [Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](/publication/2025-07-05-paper)  
+   *(2025, Submitted to IEEE Trans, Third Author)*
 
 3. [Monocular Event-Inertial Odometry with Adaptive Decay-based Time Surface and Polarity-aware Tracking](/publication/2024-09-21-paper)  
- <em>(2024, **IROS** 2024, First Author)</em>
+   *(2024, IROS 2024, **First Author**)*
 
 4. [SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking](/publication/2024-03-24-paper)  
- <em>(2024, **CVPR** 2024, Participant)</em>
+   *(2024, CVPR 2024, Participant)*
 
-5. [Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry Using Non-Uniform B-Spline](/publication/2023-09-14-paper)  
- <em>(2023, **RA-L** 2023, Third Author)</em>
+</div>
+
+<br>
 
 <details>
-  <summary style="display: flex; justify-content: center;">More Publications</summary>
-  <div style="padding-left: 20px;">
-    6. <a href="/publication/2023-06-29-paper">Geo-Localization With Transformer-Based 2D-3D Match Network</a>  <br>
-      <em>(2023, <strong>RA-L</strong> 2023, Third Author)</em><br><br>
-    7. To be continued.
+  <summary style="cursor: pointer; font-weight: bold; color: #0077b5;">Older Publications</summary>
+  <div style="margin-top: 10px; font-size: 0.95rem;" markdown="1">
+    
+5. [Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry Using Non-Uniform B-Spline](/publication/2023-09-14-paper)  
+   *(2023, RA-L 2023, Third Author)*
+
+6. [Geo-Localization With Transformer-Based 2D-3D Match Network](/publication/2023-06-29-paper)  
+   *(2023, RA-L 2023, Third Author)*
+
   </div>
-
-<!-- 6. [Geo-Localization With Transformer-Based 2D-3D Match Network](/publication/2023-06-29-paper)  
- <em>(2023, **RA-L** 2023, Third Author)</em> -->
-
-<!-- 7. To be continued. -->
-
 </details>
+
+<br>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2MQKPP4EV4"></script>
